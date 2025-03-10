@@ -1,0 +1,14 @@
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.AssemblyInfoInputs.cache
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.AssemblyInfo.cs
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.csproj.CoreCompileInputs.cache
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\bin\Debug\net9.0\PracticAves.exe
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\bin\Debug\net9.0\PracticAves.deps.json
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\bin\Debug\net9.0\PracticAves.runtimeconfig.json
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\bin\Debug\net9.0\PracticAves.dll
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\bin\Debug\net9.0\PracticAves.pdb
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.dll
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\refint\PracticAves.dll
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.pdb
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\PracticAves.genruntimeconfig.cache
+C:\Users\Jose Rodriguez\Documents\C#\PracticAves\obj\Debug\net9.0\ref\PracticAves.dll
