@@ -1,0 +1,14 @@
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.AssemblyInfoInputs.cache
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.AssemblyInfo.cs
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.csproj.CoreCompileInputs.cache
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\bin\Debug\net9.0\Herencia2.exe
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\bin\Debug\net9.0\Herencia2.deps.json
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\bin\Debug\net9.0\Herencia2.runtimeconfig.json
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\bin\Debug\net9.0\Herencia2.dll
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\bin\Debug\net9.0\Herencia2.pdb
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.dll
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\refint\Herencia2.dll
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.pdb
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\Herencia2.genruntimeconfig.cache
+C:\Users\Jose Rodriguez\Desktop\C#\Herencia2\obj\Debug\net9.0\ref\Herencia2.dll
