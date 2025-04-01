@@ -1,0 +1,14 @@
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\bin\Debug\net9.0\Centralita.exe
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\bin\Debug\net9.0\Centralita.deps.json
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\bin\Debug\net9.0\Centralita.runtimeconfig.json
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\bin\Debug\net9.0\Centralita.dll
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\bin\Debug\net9.0\Centralita.pdb
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.AssemblyInfo.cs
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.dll
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\refint\Centralita.dll
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.pdb
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\Centralita.genruntimeconfig.cache
+C:\Users\Jose Rodriguez\Documents\C#\Centralita\obj\Debug\net9.0\ref\Centralita.dll
