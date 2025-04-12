@@ -1,0 +1,10 @@
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\InventarioPOO.csproj.AssemblyReference.cache
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\InventarioPOO.Form1.resources
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\InventarioPOO.csproj.GenerateResource.cache
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\InventarioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Jose Rodriguez\Desktop\Csharp_VisualStudio\Solucion_Csharp\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
